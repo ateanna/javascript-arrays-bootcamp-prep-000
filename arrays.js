@@ -13,6 +13,7 @@ function destructivelyAddElementToBeginningOfArray(theArray, addToArray){
 
 function addElementToEndOfArray(theArray, addToArray){
   var returnArray = [...theArray, addToArray]
+  return returnArray
 }
 
 function destructivelyAddElementToEndOfArray(theArray, addToArray){
