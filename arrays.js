@@ -26,7 +26,7 @@ function accessElementInArray(theArray, theIndex){
 }
 
 function destructivelyRemoveElementFromEndOfArray(theArray){
-  theArray.pop(-1)
+  theArray.pop()
   return theArray
 }
 
