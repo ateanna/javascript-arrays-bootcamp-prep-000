@@ -9,3 +9,11 @@ function addElementToBeginningOfArray(theArray, addToArray){
 function destructivelyAddElementToBeginningOfArray(theArray, addToArray){
   theArray = [...theArray, addToArray]
 }
+
+function addElementToBeginningOfArray(theArray, addToArray){
+  
+}
+
+function destructivelyAddElementToBeginningOfArray(theArray, addToArray){
+  
+}
