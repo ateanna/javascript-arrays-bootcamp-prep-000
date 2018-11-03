@@ -10,10 +10,10 @@ function destructivelyAddElementToBeginningOfArray(theArray, addToArray){
   theArray = [...theArray, addToArray]
 }
 
-function addElementToBeginningOfArray(theArray, addToArray){
-  
+function addElementToEndOfArray(theArray, addToArray){
+
 }
 
-function destructivelyAddElementToBeginningOfArray(theArray, addToArray){
-  
+function destructivelyAddElementToEndOfArray(theArray, addToArray){
+
 }
