@@ -23,7 +23,7 @@ function accessElementInArray(theArray, theIndex){
 }
 
 function destructivelyRemoveElementFromEndOfArray(theArray){
-  theArray.unshift()
+  theArray.shift()
   return theArray
 }
 
